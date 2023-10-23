@@ -1,7 +1,7 @@
   <h3 align="center">👋 Hi, I’m @Datalog-Mindhack</h3>
   <h3 align="center">A passionate frontend developer from India</h3>
   
-- 👀 I’m interested in ...open source community and people out there
+- 👀 I’m interested in ...open-source community and the people out there
 - 🌱 I’m here to contribute and learn from it 
 - 💞️ I’m looking to collaborate on projects.
    My skills are HTML, HTML5, CSS, Javascript, Java, Python3, Git, C programming, Tkinter, Flask
